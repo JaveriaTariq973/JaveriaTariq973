@@ -71,15 +71,13 @@ const javeria = {
 
 ### 📊 GitHub Stats
 
+
 <div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JaveriaTariq973&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="55%" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JaveriaTariq973&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
 
 <img src="https://streak-stats.demolab.com/?user=JaveriaTariq973&theme=tokyonight&hide_border=true" width="60%" />
 
 </div>
+
 ---
 
 <div align="center">
